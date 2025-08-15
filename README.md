@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate technologist with over 8 years in the startup landscape, having co-founded and held the CTO role at Azora POS, which earned first place at Yemen’s National Competition for Innovative Projects Pioneers. My commitment to technology and community development is reflected in my tenure as an IT Specialist with UNOPS and a significant 5-year collaboration with Re-Coded, a notable US-based ED-tech NGO. My endeavors in the tech world led me to share my insights as a TEDx speaker. Always looking to innovate and contribute to meaningful projects. <br><br><br>focusing on solution architecture 
+I’m a passionate technologist with over 8 years in the startup landscape, having co-founded and held the CTO role at Azora POS, which earned first place at Yemen’s National Competition for Innovative Projects Pioneers. My commitment to technology and community development is reflected in my tenure as an IT Specialist with UNOPS and a significant 5-year collaboration with Re-Coded, a notable US-based ED-tech NGO. My endeavors in the tech world led me to share my insights as a TEDx speaker. Always looking to innovate and contribute to meaningful projects. <br><br><br>focusing on solution architecture
 
 
 ## 🌐 Socials:
