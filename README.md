@@ -252,6 +252,16 @@ const maher = {
 
 ---
 
+## 🎮 3D Contribution City
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</div>
+
+> *Your GitHub contributions visualized as a 3D game world! Each bar represents commits - taller buildings = more contributions!* 🏙️
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
