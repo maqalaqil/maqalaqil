@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=Maher%20Al-Aqil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Solution%20Architect%20%7C%20CTO%20%7C%20TEDx%20Speaker&descSize=20&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=Maher%20Al-Aqil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20Lead%20%7C%20Solution%20Architect%20%7C%20Engineering%20Manager&descSize=20&descAlignY=55"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80;8%2B+Years+in+Tech+%7C+Startup+Founder+%7C+Educator;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=10%2B+Years+Building+Scalable+Digital+Solutions+%F0%9F%9A%80;Engineering+Efficiency+%2B40%25+%7C+Costs+%E2%80%9370%25+%7C+99.9%25+Uptime;Transforming+Ideas+into+Enterprise-Grade+Products" alt="Typing SVG" /></a>
 
-<!-- Social Badges with Hover Animation -->
+<!-- Social Badges -->
 <p>
   <a href="https://www.linkedin.com/in/maheralaqil/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
@@ -20,51 +20,130 @@
   <a href="https://discord.gg/maqalaqil">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://twitch.tv/maqalaqil">
-    <img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  <a href="mailto:Maheralaqil@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=maqalaqil&style=for-the-badge&color=238636&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Location & Profile Views -->
+<img src="https://img.shields.io/badge/📍_California,_USA-0d1117?style=flat-square" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=maqalaqil&style=flat-square&color=238636&labelColor=0d1117&label=VISITORS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-<!-- About Section with Animation -->
+<!-- About Section -->
 <img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding Animation"/>
 
 ## 🧑‍💻 About Me
 
-> *"Innovation distinguishes between a leader and a follower."*
+Engineering leader with **10+ years** of experience in solution architecture and innovation strategy. I specialize in building high-performing engineering teams and delivering digital transformation at scale.
 
-I'm a **passionate technologist** with over **8+ years** navigating the startup landscape. My journey includes:
+### 🏆 Key Achievements
 
-🏆 **Co-Founded & CTO at Azora POS** — *1st Place, Yemen's National Competition for Innovative Projects*
-
-🌍 **IT Specialist at UNOPS** — Driving tech solutions for global development
-
-📚 **5+ Years with Re:Coded** — Empowering the next generation of developers
-
-🎤 **TEDx Speaker** — Sharing insights on technology and innovation
-
-🏗️ **Current Focus:** Solution Architecture & Building Scalable Systems
+| Metric | Impact |
+|--------|--------|
+| 📈 Engineering Efficiency | **+40%** |
+| 💰 Hosting Cost Reduction | **-70%** |
+| ⚡ System Uptime | **99.9%** |
+| 🎓 Developers Mentored | **500+** across 5 countries |
+| 🌍 Markets Scaled | MENA & GCC regions |
 
 <br clear="right"/>
 
 ---
 
-## ⚡ What I'm Up To
+## 💼 Current Roles
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ Acting CPTO @ Foodie
+**2025 - Present** | UAE (Remote)
+
+Next-gen food discovery platform connecting restaurants, creators & customers.
+- Led full technical strategy & engineering organization
+- Established foundation enabling rapid product evolution
+- Built high-velocity engineering culture across all teams
+
+</td>
+<td width="50%">
+
+### 🛒 Engineering Manager @ Salla.sa
+**2025 - Present** | KSA (Remote)
+
+Leading e-commerce platform in Saudi Arabia.
+- Driving expansion into international markets
+- Leading 7-10 cross-functional engineers & QA
+- Implemented MCP & design system (+40% efficiency)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Career Journey
+
+```mermaid
+timeline
+    title Engineering Leadership Evolution
+    2018 : Re:Coded - Senior Trainer
+         : Mentored 500+ graduates
+    2023 : UNOPS - Information Specialist
+         : Re:Coded - Technology Manager
+    2024 : NARDPOS - Director of Technology
+         : Acting CTO | -70% hosting costs
+    2025 : Salla.sa - Engineering Manager
+         : Foodie - Acting CPTO
+         : NARDPOS - Board Member
+```
+
+<details>
+<summary><b>📜 Full Experience Timeline</b></summary>
+<br/>
+
+| Role | Company | Period | Key Impact |
+|------|---------|--------|------------|
+| **Acting CPTO** | Foodie | 2025+ | Technical vision & engineering leadership |
+| **Engineering Manager** | Salla.sa | 2025+ | GCC expansion, +40% engineering efficiency |
+| **Board Member** | NARDPOS | 2025+ | Strategic technology advisory |
+| **Director of Technology** | NARDPOS | 2024-2025 | -70% hosting costs, 99.9% uptime |
+| **Technology Manager** | Re:Coded | 2023-2024 | +30% enrollment, -40% downtime |
+| **Information Specialist** | UNOPS | 2023+ | -90% report time, data optimization |
+| **Lead Trainer** | Re:Coded | 2018-2023 | 500+ graduates mentored |
+
+</details>
+
+---
+
+## ⚡ What I Bring
 
 ```javascript
 const maher = {
-    currentRole: "Solution Architect",
-    location: "Yemen 🇾🇪",
-    workingOn: ["Cloud Infrastructure", "System Design", "Mentoring Developers"],
-    learning: ["AI/ML Integration", "Web3 Architecture"],
-    askMeAbout: ["Startups", "Tech Education", "System Design", "Leadership"],
-    funFact: "I debug with coffee ☕ and ship with confidence 🚀"
+    title: "Tech Lead | Solution Architect | Engineering Manager",
+    location: "California, USA 🇺🇸",
+    
+    expertise: {
+        architecture: ["Microservices", "Event-Driven", "Cloud-Native", "Distributed Systems"],
+        leadership: ["Team Building", "Technical Strategy", "Digital Transformation"],
+        methodologies: ["Agile", "DevOps", "CI/CD", "Platform Engineering"]
+    },
+    
+    currentFocus: [
+        "Scaling engineering teams globally",
+        "Cloud infrastructure optimization",
+        "AI/ML integration in products"
+    ],
+    
+    impact: {
+        engineeringEfficiency: "+40%",
+        costReduction: "-70%",
+        uptime: "99.9%",
+        developersmentored: "500+"
+    }
 };
 ```
 
@@ -73,10 +152,10 @@ const maher = {
 ## 🛠️ Tech Arsenal
 
 <details open>
-<summary><b>💻 Languages</b></summary>
+<summary><b>💻 Languages & Frameworks</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,java,kotlin,swift,dart,cs,cpp,c,ruby,php&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,go,cs,dotnet,cpp,c,python,swift,kotlin&perline=6" />
 </p>
 </details>
 
@@ -84,41 +163,61 @@ const maher = {
 <summary><b>🎨 Frontend & Mobile</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,flutter,electron,html,css,tailwind,bootstrap&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,flutter,swift,html,css,tailwind&perline=5" />
 </p>
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & DevOps</b></summary>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,rails,dotnet,graphql,rabbitmq,nginx,apache&perline=5" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,githubactions,gitlab,jenkins&perline=5" />
 </p>
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<summary><b>🗄️ Data & Messaging</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,vercel,netlify,heroku,cloudflare,docker,kubernetes&perline=5" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka,rabbitmq,graphql&perline=7" />
 </p>
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>🤖 AI/ML & Tools</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,cassandra,dynamodb&perline=7" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux,git,github,figma,postman,vscode&perline=4" />
 </p>
 </details>
 
-<details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,figma,postman,notion,linux,raspberrypi&perline=5" />
-</p>
-</details>
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| Certificate | Issuer |
+|-------------|--------|
+| 🧠 **Neural Networks and Deep Learning** | DeepLearning.AI |
+| 📊 **Foundations of Project Management** | Google |
+| 🏗️ **Software Architecture** | University of Alberta |
+| 🤖 **Machine Learning** | Stanford University |
+
+</div>
+
+---
+
+## 🏅 Recognition
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎤_TEDx_Speaker-E62B1E?style=for-the-badge" alt="TEDx"/>
+<img src="https://img.shields.io/badge/🏆_National_Competition_Winner-FFD700?style=for-the-badge&logoColor=black" alt="Award"/>
+
+**1st Place** — Yemen's National Competition for Innovative Projects Pioneers
+
+</div>
 
 ---
 
@@ -126,16 +225,13 @@ const maher = {
 
 <div align="center">
 
-<!-- Animated Stats Cards -->
 <a href="https://github.com/maqalaqil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maqalaqil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqalaqil&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </a>
 
-<!-- Streak Stats -->
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=maqalaqil&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff"/>
 
-<!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maqalaqil&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636"/>
 
 </div>
@@ -145,15 +241,12 @@ const maher = {
 ## 🏆 Achievements
 
 <div align="center">
-
-<!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=maqalaqil&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"/>
-
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -165,45 +258,34 @@ const maher = {
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Dev Quote"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
+## 🤝 Let's Build Something Amazing
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="80"/>
 
-**I'm always excited to collaborate on innovative projects and share knowledge!**
+**Open to collaborating on impactful projects & scaling engineering teams!**
 
-*Whether you want to discuss tech, startups, or just say hi — feel free to reach out!*
+*Whether it's architecture consulting, tech leadership, or innovative product development — let's connect!*
 
-<a href="mailto:contact@maqalaqil.com">
-  <img src="https://img.shields.io/badge/-Send%20an%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<a href="mailto:Maheralaqil@gmail.com">
+  <img src="https://img.shields.io/badge/-Maheralaqil@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/maheralaqil/">
+  <img src="https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
-<!-- Spotify Currently Playing (Optional - uncomment if you have Spotify integration) -->
-<!-- [![Spotify](https://novatorem-maqalaqil.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID) -->
-
-<!-- Random Joke -->
 <details>
-<summary>😄 Click for a Dev Joke</summary>
+<summary align="center">😄 <b>Click for a Dev Joke</b></summary>
 <br/>
+<div align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=github_dark&hideBorder&qColor=%2358a6ff&aColor=%23238636" alt="Jokes Card"/>
-</details>
-
 </div>
+</details>
 
 ---
 
@@ -211,5 +293,5 @@ const maher = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=120&section=footer"/>
 
 <div align="center">
-  <sub>⚡ Built with passion by <a href="https://github.com/maqalaqil">Maher Al-Aqil</a> | 2024</sub>
+  <sub>⚡ Crafted with passion by <a href="https://github.com/maqalaqil">Maher Al-Aqil</a> | California, USA</sub>
 </div>
