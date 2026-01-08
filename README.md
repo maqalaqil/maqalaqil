@@ -252,7 +252,77 @@ const maher = {
 
 ---
 
-## 🎮 3D Contribution City
+## 🎮 GitHub Game Zone
+
+<div align="center">
+
+<!-- Mario Game Banner -->
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg" width="100%"/>
+
+### 🍄 Super Maher Bros. - GitHub Edition
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║    ▄▄▄▄▄▄▄                                    SCORE: 10+ YRS                 ║
+║   █ ■■■■ █        ★ ★ ★                       COINS: 500+ DEVS              ║
+║   █ ■■■■ █    ████████████                    WORLD: CALIFORNIA              ║
+║   █      █   ████████████████                 LEVEL: TECH LEAD               ║
+║    █    █   ███ COMMITS ███████                                              ║
+║     █  █   █████████████████████   🏆 🏆 🏆                                   ║
+║   ▄█▄██▄█▄ ███████████████████████████████████████████████████████████████   ║
+║   ████████ ███████████████████████████████████████████████████████████████   ║
+║                                                                              ║
+║   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="40"/>
+<br/><b>ACHIEVEMENTS</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="40"/>
+<br/><b>COINS</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="40"/>
+<br/><b>POWER-UPS</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="40"/>
+<br/><b>STARS</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>TEDx + Award</b><br/>
+<sub>Boss Defeated! 🎤</sub>
+</td>
+<td align="center">
+<b>500+ Devs</b><br/>
+<sub>Mentored! 🎓</sub>
+</td>
+<td align="center">
+<b>+40% Efficiency</b><br/>
+<sub>Speed Boost! ⚡</sub>
+</td>
+<td align="center">
+<b>99.9% Uptime</b><br/>
+<sub>Invincible! ⭐</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating contributions"/>
+
+</div>
+
+---
+
+## 🏙️ 3D Contribution City
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
