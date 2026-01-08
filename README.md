@@ -230,18 +230,24 @@ const maher = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqalaqil&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </a>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=maqalaqil&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff"/>
+<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maqalaqil&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maqalaqil&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maqalaqil&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=maqalaqil&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=maqalaqil&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies"/>
+
 </div>
 
 ---
