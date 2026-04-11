@@ -58,16 +58,6 @@ Engineering leader with **10+ years** of experience in solution architecture and
 
 <table>
 <tr>
-<td width="50%">
-
-### 🍽️ Acting CPTO @ Foodie
-**2025 - Present** | UAE (Remote)
-
-Next-gen food discovery platform connecting restaurants, creators & customers.
-- Led full technical strategy & engineering organization
-- Established foundation enabling rapid product evolution
-- Built high-velocity engineering culture across all teams
-
 </td>
 <td width="50%">
 
